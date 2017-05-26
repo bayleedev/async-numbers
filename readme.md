@@ -1,6 +1,13 @@
 ## Async Numbers
 
-You need to generate a list of 100 unique numbers from our async number api.
+This is the Browser Team code test! Come forth and test your JavaScript powers!
+
+Getting the test to pass is a good demonstration of your knowledge of JavaScript
+and how to interact with async APIs.
+
+To complete the challenge, you need to generate a list of 100 unique numbers.
+We provide the API you'll need to generate the numbers, and to validate your
+list.
 
 ### Run it
 
