@@ -2,6 +2,16 @@
 
 You need to generate a list of 100 unique numbers from our async number api.
 
+### Run it
+
+To run the example file you can run:
+
+```
+node index.js
+```
+
+### Use it
+
 To use the `getNumber`:
 
 ``` javascript
