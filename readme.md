@@ -24,7 +24,8 @@ getNumber((number) => {
 ```
 
 Once you have a list of 100 unique numbers, you can call `check` to validate
-your array. For example:
+your array. If it is not a list of 100 unique numbers, it will throw an
+exception. For example:
 
 ``` javascript
 var getNumber = require('./lib/get-number')
